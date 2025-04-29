@@ -1,0 +1,10 @@
+bcrypt
+fastapi
+uvicorn
+python-dotenv
+pymongo
+pydantic
+python-jose[cryptography] 
+passlib[bcrypt]
+brevo sdk
+flask>=2.0.0
